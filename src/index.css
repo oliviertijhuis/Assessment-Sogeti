@@ -30,6 +30,7 @@ code {
 
 .btnMore:hover{
   color: yellow;
+  cursor: pointer;
 }
 
 .fadeInAnimation{
